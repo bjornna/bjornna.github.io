@@ -15,8 +15,7 @@ asciidoc:
     page-pagination: ''
 ui:
   bundle:
-    url: https://github.com/bjornna/antora-ui-bifrost/actions/runs/12444372130/artifacts/2351617438
-    snapshot: true
+    url: https://github.com/bjornna/antora-ui-bifrost/releases/download/v0.5/ui-bundle.zip    
   supplemental_files:
   - path: ui.yml
     contents: |
