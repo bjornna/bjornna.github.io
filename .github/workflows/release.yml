@@ -1,5 +1,7 @@
 name: Publish to GitHub Pages with Lunr Search Extension
 on:
+  repository_dispatch: 
+    type: [dispatch-event]
   push:
     branches: [main]
   # Allows you to run this workflow manually from the Actions tab
