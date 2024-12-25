@@ -10,6 +10,8 @@ content:
   sources:  
   - url: https://github.com/bjornna/bjornna
     branches: main 
+  - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/Personskade-Doc
+    branches: antora
 asciidoc:
   attributes:
     experimental: ''
