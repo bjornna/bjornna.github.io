@@ -4,6 +4,8 @@ antora:
 site:
   title: Bjornna  
   start_page: bjornna::index.adoc
+  keys:
+    google_analytics: 'GTM-5F9RWSPF'
 git:
   ensure_git_suffix: false  
 content:
