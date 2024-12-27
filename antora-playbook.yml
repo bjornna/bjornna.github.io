@@ -12,6 +12,9 @@ content:
     branches: main 
   - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/Personskade-Doc
     branches: antora
+  - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/DHACK-2024-MM
+    branches: HEAD
+    start_path: doc
 asciidoc:
   attributes:
     experimental: ''
