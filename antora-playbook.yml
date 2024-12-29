@@ -15,12 +15,18 @@ content:
   - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/DHACK-2024-MM
     branches: HEAD
     start_path: doc
+  - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/SurgeryQualityModule
+    branches: doc
+    start_path: doc
 asciidoc:
   attributes:
+    plantuml-server-url: http://www.plantuml.com/plantuml
     experimental: ''
     idprefix: ''
     idseparator: '-'
     page-pagination: ''
+  extensions:
+    - asciidoctor-plantuml
 ui:
   bundle:
     url: https://github.com/bjornna/antora-ui-bifrost/releases/download/v0.7.0/ui-bundle.zip
