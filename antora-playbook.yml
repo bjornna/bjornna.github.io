@@ -29,7 +29,7 @@ asciidoc:
     - asciidoctor-plantuml
 ui:
   bundle:
-    url: https://github.com/bjornna/antora-ui-bifrost/releases/download/v0.7.4/ui-bundle.zip
+    url: https://github.com/bjornna/antora-ui-bifrost/releases/download/v0.8.0/ui-bundle.zip
   supplemental_files:
   - path: ui.yml
     contents: |
