@@ -18,7 +18,7 @@ content:
     branches: HEAD
     start_path: doc
   - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/SurgeryQualityModule
-    branches: doc
+    branches: master
     start_path: doc
 asciidoc:
   attributes:
