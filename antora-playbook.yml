@@ -20,6 +20,9 @@ content:
   - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/SurgeryQualityModule
     branches: master
     start_path: doc
+  - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/Oncology-Export
+    branches: master
+    start_path: doc    
 asciidoc:
   attributes:
     plantuml-server-url: http://www.plantuml.com/plantuml
