@@ -12,7 +12,7 @@ content:
     branches: main 
   - url: https://github.com/ehrforce/onkodok
     branches: main 
-  - url: https://github.com/ehrforce/Oncology-Sarcoma
+  - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/Oncology-Sarcoma
     branches: master
     start_path: doc
   - url: https://dips@dev.azure.com/dips/DIPS%20Configured%20Products/_git/Personskade-Doc
